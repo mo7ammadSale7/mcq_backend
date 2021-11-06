@@ -1,0 +1,15 @@
+Person
+  -id
+  -name
+  -phone-number
+  -region
+  -address
+  -families-number
+  -status
+  -status-description
+  -national-id
+  -rent
+  -finance
+  -finance-source
+  -followers-number
+  -created-at
